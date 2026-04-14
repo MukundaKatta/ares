@@ -1,6 +1,6 @@
 # ares — Competitive Intelligence. Competitive intelligence platform
 
-Competitive Intelligence. Competitive intelligence platform. ares gives you a focused, inspectable implementation of that idea.
+Competitive Intelligence. Competitive intelligence platform.
 
 ## Why ares
 
